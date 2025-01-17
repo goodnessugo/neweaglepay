@@ -23,8 +23,8 @@ app.use(express.urlencoded({ extended: true}))
 
 
 // --------routers-------------
-const router = require('./routes/customerRouter.js')
- app.use('/api/customers', router) //this is where i dont't know how he got the api , please i need help
+//const router = require('./routes/customerRouter.js')
+ //app.use('/api/customers', router) //this is where i dont't know how he got the api , please i need help
 
 
 
